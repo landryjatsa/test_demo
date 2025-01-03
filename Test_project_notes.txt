@@ -1,0 +1,1 @@
+1- While downloading java for jenkins, please use java v17
